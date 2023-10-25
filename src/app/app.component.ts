@@ -1,6 +1,6 @@
 import {Component, OnInit} from '@angular/core';
 import {View, Map } from 'ol';
-import {olExtended} from 'geoportal-extensions-openlayers';
+//import {olExtended} from 'geoportal-extensions-openlayers';
 
 @Component({
   selector: 'app-root',
